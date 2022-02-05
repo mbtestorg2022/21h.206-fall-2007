@@ -14,22 +14,201 @@ Horowitz, Daniel, and Vance Packard, eds. _Status Seekers_. Bedford: St. Martin'
 
 Schlosser, Eric. _Fast Food Nation_. New York, NY: Perennial, 2005. ISBN: 9780060838584.
 
-| WEEK # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction to the world of goods |  |
-| {{< td-colspan 3 >}}**Part I: the rise of a mass market at the turn of the century**{{< /td-colspan >}} |||
-| 2 | Downtown shopping | Dreiser. _Sister Carrie._ Chapters 1-3, 5-8, 10, and 12-14. |
-| 3 | Leisure time | Dreiser. _Sister Carrie._ Chapters 16, 20-21, and 23-27. |
-| 4 | The business of consumption | Dreiser. _Sister Carrie._ Chapters 28-39, 42, and 44-47. |
-| {{< td-colspan 3 >}}**Part II: making a middle-class society in interwar America**{{< /td-colspan >}} |||
-| 5 | Roaring twenties | Lewis. _Babbitt._ Chapters 1-7. |
-| 6 | No class: meet to discuss papers |  |
-| 7 | Advertising the American dream | Lewis. _Babbitt._ Chapters 8-18. |
-| 8 | Abundance and its critics (I) | Lewis. _Babbitt._ Chapters 19-34. |
-| {{< td-colspan 3 >}}**Part III: mass culture in postwar America**{{< /td-colspan >}} |||
-| 9 | Status seeking in the suburbs | Packard. _Status Seekers._ Chapters 1-7, 9-12, and 20-21. |
-| 10 | Age of television | Packard. _Status Seekers._ Chapters 13-14, 17-19, 22, and 24. |
-| {{< td-colspan 3 >}}**Part IV: conspicuous consumption at century's end**{{< /td-colspan >}} |||
-| 11 | McDonalds, microwaves, and the mega-rich | Schlosser. _Fast Food Nation._ Part I. |
-| 12 | Abundance and its critics (II) | Schlosser. _Fast Food Nation._ Part II. |
-| 13 | E-bay and beyond |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the world of goods
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part I: the rise of a mass market at the turn of the century**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Downtown shopping
+{{< tdclose >}}
+{{< tdopen >}}
+Dreiser. _Sister Carrie._ Chapters 1-3, 5-8, 10, and 12-14.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Leisure time
+{{< tdclose >}}
+{{< tdopen >}}
+Dreiser. _Sister Carrie._ Chapters 16, 20-21, and 23-27.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The business of consumption
+{{< tdclose >}}
+{{< tdopen >}}
+Dreiser. _Sister Carrie._ Chapters 28-39, 42, and 44-47.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part II: making a middle-class society in interwar America**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Roaring twenties
+{{< tdclose >}}
+{{< tdopen >}}
+Lewis. _Babbitt._ Chapters 1-7.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+No class: meet to discuss papers
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Advertising the American dream
+{{< tdclose >}}
+{{< tdopen >}}
+Lewis. _Babbitt._ Chapters 8-18.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Abundance and its critics (I)
+{{< tdclose >}}
+{{< tdopen >}}
+Lewis. _Babbitt._ Chapters 19-34.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part III: mass culture in postwar America**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Status seeking in the suburbs
+{{< tdclose >}}
+{{< tdopen >}}
+Packard. _Status Seekers._ Chapters 1-7, 9-12, and 20-21.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Age of television
+{{< tdclose >}}
+{{< tdopen >}}
+Packard. _Status Seekers._ Chapters 13-14, 17-19, 22, and 24.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part IV: conspicuous consumption at century's end**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+McDonalds, microwaves, and the mega-rich
+{{< tdclose >}}
+{{< tdopen >}}
+Schlosser. _Fast Food Nation._ Part I.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Abundance and its critics (II)
+{{< tdclose >}}
+{{< tdopen >}}
+Schlosser. _Fast Food Nation._ Part II.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+E-bay and beyond
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
